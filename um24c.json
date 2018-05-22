@@ -1,6 +1,6 @@
 {
-  "url":"http://www.ruidengkeji.com/apk/UM24C_V1.5.5.apk",
+    "url":"http://www.ruidengkeji.com/apk/UM24C_V1.5.8.apk",
   "versionCode":2,
-  "versionName":"UM24C_V1.5.5",
-  "updateMessage":"1.自动更新功能 \n- Automatic Updates \n2.修复语言bug  \n- Repair language known bug"
+  "versionName":"UM24C_V1.5.8",
+  "updateMessage":"1.增加捷克语，更新到18种语言. \n- Add Czech , update to  18 kinds languages\n2.修复硬件检测传输数据的bug. \n- Fix the bug where the hardware detects the transfer data."
 }
