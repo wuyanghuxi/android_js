@@ -1,6 +1,6 @@
-{
-  "url":"http://www.ruidengkeji.com/apk/UM34C_V1.0.2.apk",
-  "versionCode":2,
-  "versionName":"UM34C_V1.0.2",
-  "updateMessage":"1.自动更新功能 \n- Automatic Updates \n2.修复语言bug  \n- Repair language known bug"
+
+  "url":"http://www.ruidengkeji.com/apk/UM34C_V1.0.3.apk",
+  "versionCode":4,
+  "versionName":"UM34C_V1.0.3",
+  "updateMessage":"1.适用于UM24C、UM34C、UM25C.\nApply for UM24C、UM34C、UM25C.\n2.增加乌克兰语、希腊语,更新到19种语言. \n- Add Ukraine,Greek.update to 20 kinds languages\n\n3.警告:卸载原有安装程序才能安装新程序.\n- Warning:uninstall the original program first,then install the new."
 }
